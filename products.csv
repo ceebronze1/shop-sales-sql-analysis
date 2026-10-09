@@ -1,0 +1,13 @@
+product_id,product_name,category,unit_price
+1,iPhone 13,Phone,7800
+2,Samsung Galaxy A15,Phone,2400
+3,Tecno Spark 20,Phone,1700
+4,Infinix Hot 40,Phone,1900
+5,Xiaomi Redmi 13,Phone,1850
+6,Phone Case,Accessory,45
+7,Screen Protector,Accessory,30
+8,Fast Charger,Accessory,120
+9,Earphones,Accessory,95
+10,Power Bank 20000mAh,Accessory,260
+11,Bluetooth Speaker,Accessory,350
+12,Smart Watch,Accessory,480

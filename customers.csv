@@ -1,0 +1,31 @@
+customer_id,customer_name,region,customer_type,signup_date
+1,Kwame Konadu,Greater Accra,Individual,12/1/2025
+2,Ama Nartey,Northern,Individual,10/22/2025
+3,Kofi Quaye,Western,Individual,1/5/2026
+4,Akosua Badu,Central,Individual,7/12/2025
+5,Yaw Antwi,Ashanti,Individual,12/1/2025
+6,Abena Gyamfi,Volta,Individual,11/14/2025
+7,Kojo Addo,Northern,Individual,2/14/2026
+8,Efua Yeboah,Central,Individual,4/25/2026
+9,Nana Kuffour,Greater Accra,Individual,1/6/2026
+10,Esi Amoah,Ashanti,Individual,10/14/2025
+11,Kwesi Frimpong,Greater Accra,Individual,10/13/2025
+12,Adwoa Bonsu,Greater Accra,Individual,10/16/2025
+13,Selorm Ofori,Western,Individual,2/24/2026
+14,Mawuli Tetteh,Central,Individual,9/15/2025
+15,Fatima Acheampong,Volta,Individual,7/26/2025
+16,Ibrahim Asante,Greater Accra,Individual,9/19/2025
+17,Grace Mensah,Ashanti,Individual,6/8/2025
+18,Daniel Osei,Ashanti,Individual,7/6/2025
+19,Mercy Lamptey,Greater Accra,Individual,6/30/2025
+20,Samuel Opoku,Greater Accra,Individual,2/10/2026
+21,Priscilla Danso,Ashanti,Individual,1/25/2026
+22,Joseph Agyeman,Greater Accra,Individual,1/16/2026
+23,Linda Adjei,Western,Individual,10/31/2025
+24,Emmanuel Baidoo,Ashanti,Individual,1/23/2026
+25,Comfort Boateng,Northern,Individual,7/24/2025
+26,Isaac Appiah,Western,Business,3/25/2026
+27,Gloria Annan,Greater Accra,Individual,11/13/2025
+28,Michael Owusu,Northern,Individual,4/6/2026
+29,Rita Sarpong,Central,Individual,7/21/2025
+30,Eric Darko,Ashanti,Individual,11/12/2025
